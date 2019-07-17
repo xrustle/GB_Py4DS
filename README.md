@@ -1,2 +1,3 @@
-# GB_Py4DS
-Python for Data Science
+# Python for Data Science
+
+Репозиторий для хранения работ, выполненных в рамках курса университета искусственного интеллекта Geekbrains
